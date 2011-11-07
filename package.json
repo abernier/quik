@@ -1,0 +1,11 @@
+{
+  "name": "quik",
+  "version": "0.1.0",
+  "description": "A quik server with routes, CORS, and HTTP responses aliases.",
+  "dependencies": {
+    "connect": "",
+    "connect-xcors": "",
+    "quip": "",
+    "dispatch" : ""
+  }
+}
