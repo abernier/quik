@@ -2,8 +2,10 @@
   "name": "quik",
   "version": "0.1.0",
   "description": "A quik server with routes, CORS, and HTTP responses aliases.",
+  "engine" : [ "node >=0.1.102" ], 
+  "main": "./lib/quik.js",
   "dependencies": {
-    "connect": "",
+    "connect": ">= 1.0.x",
     "connect-xcors": "",
     "quip": "",
     "dispatch" : ""
