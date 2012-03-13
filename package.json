@@ -5,7 +5,7 @@
   "engine" : [ "node >=0.1.102" ], 
   "main": "./lib/index.js",
   "dependencies": {
-    "connect": ">= 1.0.x",
+    "connect": "~1.8.x",
     "connect-xcors": "*",
     "quip": "*",
     "dispatch": "*"
